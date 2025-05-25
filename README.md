@@ -1,18 +1,18 @@
-Title of Project: Road accident prediction and classification
-Team Members:
-Harshit Goel
-Mohit Saini
-Harsheet
-Steps for Execution:
+# Title of Project: Road accident prediction and classification
+## Team Members:
+1. Harshit Goel
+2. Mohit Saini
+3. Harsheet
+## Steps for Execution:
 run python main.py
 
-Checklist:
-Final Project Report
-Certificate VII Semester (Dated: December 2024).
-Certificate VIII Semester (Dated: May 2025).
-Synopsis
-Final Presentation
-Source Code
-Database dump (.sql file)
-If a web project, then a Docker file for deployment
-README (This file)
+## Checklist:
+1. Final Project Report
+2. Certificate VII Semester (Dated: December 2024).
+3. Certificate VIII Semester (Dated: May 2025).
+4. Synopsis
+5. Final Presentation
+6. Source Code
+7. Database dump (.sql file)
+8. If a web project, then a Docker file for deployment
+9. README (This file)
