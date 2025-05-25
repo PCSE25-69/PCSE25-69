@@ -1,16 +1,18 @@
-## Hi there 👋
+Title of Project: Road accident prediction and classification
+Team Members:
+Harshit Goel
+Mohit Saini
+Harsheet
+Steps for Execution:
+run python main.py
 
-<!--
-**PCSE25-69/PCSE25-69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checklist:
+Final Project Report
+Certificate VII Semester (Dated: December 2024).
+Certificate VIII Semester (Dated: May 2025).
+Synopsis
+Final Presentation
+Source Code
+Database dump (.sql file)
+If a web project, then a Docker file for deployment
+README (This file)
